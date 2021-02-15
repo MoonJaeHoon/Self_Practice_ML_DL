@@ -1,3 +1,2 @@
 NLP/Word2Vec_Glove_Tutorial/Dacon_KoreanDocumentGenerationSummary/Save_glove_model/Mecab_glove_100_20_05.model filter=lfs diff=lfs merge=lfs -text
 NLP/Word2Vec_Glove_Tutorial/Dacon_KoreanDocumentGenerationSummary/train.jsonl filter=lfs diff=lfs merge=lfs -text
-*.model filter=lfs diff=lfs merge=lfs -text
